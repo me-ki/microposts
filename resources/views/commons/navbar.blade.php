@@ -8,7 +8,9 @@
         <div class="collapse navbar-collapse" id="nav-bar">
             <ul class="navbar-nav mr-auto"></ul>
             <ul class="navbar-nav">
-                <li class="nav-item"><a href="#" class="nav-link">Signup</a></li>
+                {{-- ユーザ登録ページへのリンク --}}
+                <li class="nav-item"><a href="signup.get" class="nav-link">Signup</a></li>
+                {{-- ログインページへのリンク --}}
                 <li class="nav-item"><a href="#" class="nav-link">Login</a></li>
             </ul>
         </div>
