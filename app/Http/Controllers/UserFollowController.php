@@ -20,7 +20,7 @@ class UserFollowController extends Controller
          return back();
      }
      
-     /**
+    /**
      * ユーザをアンフォローするアクション。
      *
      * @param  $id  相手ユーザのid
